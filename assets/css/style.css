@@ -310,7 +310,7 @@ nav .button-collapse i {
   border-color: inherit;
 }
 #about .intro-content .btn-success {
-  background-color: #38de8a;
+  background-color: #E73931;
   border-color: inherit;
 }
 /*
@@ -753,7 +753,7 @@ nav .button-collapse i {
 #contactForm .btn {
   padding: 7px 50px;
   text-align: center;
-  background-color: #38de8a !important;
+  background-color: #E73931 !important;
   width: 300px;
   color: #fff !important;
 }
