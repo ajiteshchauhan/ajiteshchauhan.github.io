@@ -148,7 +148,7 @@ h1 {
 */
 #header-top {
   min-height: 100px;
-  background: #E73931;
+  /*background: #E73931;*/
 }
 #header-top .top-contact {
   margin: 20px;
